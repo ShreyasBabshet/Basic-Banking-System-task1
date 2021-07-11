@@ -1,0 +1,22 @@
+
+.content{
+    height: 105vh;
+    width: 100%;
+    background-image: url(./images/pig2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sign{
+    font-weight: bold;
+    color: black;
+}
+footer{
+    width: 100%;
+	left: 0px;
+	bottom: 0px;
+    color: #ffffff ;
+	position: absolute;
+}
+container{
+    background-image: url(./images/pig2.jpg);
+}
